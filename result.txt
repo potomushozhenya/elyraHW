@@ -1,0 +1,8 @@
+Logistic regression 71.86
+SVM 54.14
+Linear SVM 51.27
+k-NN 77.31
+Decision tree 100.0
+Random forest 100.0
+GaussianNB 70.72
+SGD 49.64
